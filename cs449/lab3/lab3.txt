@@ -1,0 +1,6 @@
+"pullup" backwards is "pullup", and it is a palindrome!
+"plop" backwards is "polp", and it is not a palindrome!
+"racecar" backwards is "racecar", and it is a palindrome!
+"racecat" backwards is "tacecar", and it is not a palindrome!
+"rats" backwards is "star", and it is not a palindrome!
+"deleveled" backwards is "deleveled", and it is a palindrome!

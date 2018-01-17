@@ -1,0 +1,3 @@
+Chocolate:1
+Vanilla:1
+Strawberry:0

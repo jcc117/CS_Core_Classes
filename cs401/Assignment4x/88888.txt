@@ -1,0 +1,6 @@
+Obama:0
+Clinton:0
+Washington:0
+Truman:1
+Carter:0
+Reagan:0

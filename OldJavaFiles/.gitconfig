@@ -1,0 +1,8 @@
+[user]
+	name = jcc117
+[user]
+	email = jcc117@pitt.edu
+[filter "lfs"]
+	smudge = git-lfs smudge %f
+	required = true
+	clean = git-lfs clean %f

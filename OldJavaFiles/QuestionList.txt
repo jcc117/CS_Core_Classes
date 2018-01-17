@@ -1,0 +1,50 @@
+Which is not one of the four main islands of Japan?
+5
+Honshu
+Hokkaido
+Shikoku
+Kyushu
+Okinawa
+4
+0
+0
+Which country was a colony of Japan?
+4
+China
+Kingdom of Hawaii
+Korea
+Vietnam
+2
+0
+0
+Antoon's or Sorento's?
+6
+Antoon's
+Sorento's
+Who cares?
+I'm hungry.
+Stop programming.
+Let's go get pizza.
+3
+0
+0
+Why am I so tired?
+3
+I was up late programming.
+I was up late studying.
+I'm always tired.
+2
+0
+0
+Why were 2 of these questions serious and not the last 3?
+7
+Because I'm bored.
+Because I don't care about the answers.
+Because I'm hungry.
+Because you're hungry.
+Because this is just a test file, so who cares.
+Because I'm ready to make a peanut butter sandwich.
+Because it's hot outside.
+4
+0
+0

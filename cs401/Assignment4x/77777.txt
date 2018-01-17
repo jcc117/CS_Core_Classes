@@ -1,0 +1,5 @@
+Ice Cream:0
+Chips:0
+Cookies:0
+Fries:1
+Hot Dog:0

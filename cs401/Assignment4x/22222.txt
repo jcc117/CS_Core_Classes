@@ -1,0 +1,4 @@
+Dog:1
+Cat:1
+Fish:0
+Other:0

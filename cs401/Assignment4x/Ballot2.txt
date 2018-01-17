@@ -1,0 +1,5 @@
+4
+55555:Best Day:Thursday,Friday
+66666:Worst Day:Monday,Tuesday,Wednesday,Sunday
+77777:Best Food:Ice Cream,Chips,Cookies,Fries,Hot Dog
+88888:President:Obama,Clinton,Washington,Truman,Carter,Reagan

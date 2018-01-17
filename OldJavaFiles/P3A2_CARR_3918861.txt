@@ -1,0 +1,8 @@
+wolf
+sword
+lion
+fish
+rose
+shield
+banner
+spear

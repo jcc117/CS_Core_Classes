@@ -1,0 +1,2 @@
+Thursday:0
+Friday:1

@@ -1,0 +1,4 @@
+Monday:1
+Tuesday:0
+Wednesday:0
+Sunday:0
